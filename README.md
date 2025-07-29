@@ -42,3 +42,13 @@ The `data/` folder contains:
 More details about each subfolder and how to run the experiments are provided in their respective README files (if available). Please refer to the usage instructions in the `archispe/` and `evaluation/` folders.
 
 ---
+
+📃 Citation
+If you use this framework or dataset in your research, please cite our paper:
+@inproceedings{yourcitationkey,
+  title={Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities},
+  author={Your Name and Others},
+  booktitle={Conference Name},
+  year={2025}
+}
+
