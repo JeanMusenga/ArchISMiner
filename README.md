@@ -24,6 +24,15 @@ This repository contains:
 
 └── README.md # This file
 
+# Dataset Description
+The Dataset/ folder contains:
+
+questions.csv: Stack Overflow questions
+
+answers.csv: Corresponding answers
+
+annotations.json: Manually annotated architectural issue-solution pairs
+
 
 
 
