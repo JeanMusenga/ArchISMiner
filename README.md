@@ -4,6 +4,9 @@ This is the Replication Package for the Paper:  “Automatic Mining of Architect
 
 ## 🚨 Introduction
 
+We developed a framework to mine architectural knowledge by analyzing ARPs from SO. Our framework comprises two complementary learning approaches, ArchPI and ArchISPE, which operate
+in two main phases: a) Automatic Identification of Architecture-Related Posts and b) Automatic Extraction of Architectural Issue-Solution Pairs.
+
 This repository provides:
 - The implementation of our proposed framework (**ArchISPE**)
 - Baseline models for comparative evaluation
