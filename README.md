@@ -1,7 +1,4 @@
-# ArchISPE
-
-This is the replication package for the paper:  
-**_“Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities”_**
+This is the Replication Package for the Paper:  **_“Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities”_**
 
 This repository provides:
 - The implementation of our proposed framework (**ArchISPE**)
