@@ -1,12 +1,17 @@
 # Replication for the Paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*
 
-This replication package accompanies the paper ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities. 
-The repository provides an overview of the ArchISMiner framework, the source code implementing its components, and the dataset used in our study.
+This replication package accompanies the paper *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*. 
+It provides an overview of the ArchISMiner framework, the source code implementing its components, and the dataset used in our study.
 
 ## 🚨 Introduction
 
-We developed a framework to mine architectural knowledge by analyzing ARPs from SO. Our framework comprises two complementary learning components: ArchPI and ArchISPE, which operate
-in two main phases: a) Automatic Identification of Architecture-Related Posts and b) Automatic Extraction of Architectural Issue-Solution Pairs.
+**ArchISMiner** is a framework for automatically mining architectural knowledge from Stack Overflow (SO) posts. It comprises two complementary components:
+
+- **ArchPI** – Identifies architecture-related posts (ARPs) from the broader set of SO posts.  
+- **ArchISPE** – Extracts architectural issue–solution pairs from the identified ARPs to capture task-specific architectural knowledge.
+
+Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
+
 
 This repository provides:
 - The implementation of our proposed framework (**ArchISPE**)
