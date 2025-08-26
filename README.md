@@ -1,15 +1,16 @@
 # Replication for the Paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*
 
-This replication package accompanies the paper *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*. 
-It provides an overview of the ArchISMiner framework, the source code implementing its components, and the dataset used in our study.
+This is the replication package for the paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*. 
+It provides an overview of the ArchISMiner framework, the source code implementing its components and baselines, and the dataset used in our study.
 
 ## 🚨 Introduction
 
 **ArchISMiner** is a framework for automatically mining architectural knowledge from Stack Overflow (SO) posts. It comprises two complementary components:
 
-- **ArchPI** – Identifies architecture-related posts (ARPs) from the broader set of SO posts.  
-- **ArchISPE** – Extracts architectural issue–solution pairs from the identified ARPs to capture task-specific architectural knowledge.
+- **ArchPI** – Identifies Architecture-Related Posts (ARPs) from the broader set of SO posts. Specifically, it leverages a diverse set of models, including traditional machine learning (ML), deep learning (DL), state-of-the-art pre-trained language models (PLMs), and large language models (LLMs), to select the optimal model for this task.
 
+- **ArchISPE** – Extracts architectural issue–solution pairs from the identified ARPs to capture task-specific architectural knowledge. Given an ARP (i.e., a Question_body and its corresponding Answer_body) consisting of 𝑛 sentences, ArchISPE extracts a small set of key sentences that explicitly express architectural issues and solutions, and generates a concise, self-contained issue-solution pair for the post.
+  
 Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
 
 
