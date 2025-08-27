@@ -36,3 +36,14 @@ Together, these components enable software engineers—particularly architects a
 ├── results/ # Output results from experiments
 
 └── README.md # This file
+
+## 📝 Citation
+
+```bibtex
+@article{Musenga2025ArchISMiner,
+  author = {Musengamana Jean de Dieu and Ruiyin Li and Peng Liang and Mojtaba Shahin and Muhammad Waseem and Zengyang Li and Bangchao Wang and Arif Ali Khan and Mst Shamima Aktar},
+  title = {{ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities}},
+  journal={arXiv preprint arXiv:xxx.xxxx},
+  year={2025}
+}
+```
