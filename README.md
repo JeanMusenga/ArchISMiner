@@ -37,6 +37,20 @@ Together, these components enable software engineers, particularly architects an
 
 └── README.md # This file
 
+
+## Dataset Description
+
+The `data/` directory includes:
+- `questions.csv` – Stack Overflow questions.
+- `answers.csv` – Corresponding answers.
+- `annotations.json` – Manually annotated architectural issue–solution pairs.
+
+**Dataset Size**: [Insert number of questions, answers, and annotated pairs].  
+**Annotation Process**: [Briefly describe, e.g., conducted by two experts following guidelines].  
+
+---
+
+
 ## 📝 Citation
 
 ```bibtex
