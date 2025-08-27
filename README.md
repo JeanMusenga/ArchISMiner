@@ -9,7 +9,7 @@ Stack Overflow (SO), a leading online community forum, is a rich source of softw
 
 ![Overview of Research Methodology](images/OverviewOftheReseachMethod.png)
 
-## 🚨 ArchISMiner
+## 🚨 ArchISMiner Framework
 
 **ArchISMiner** is a framework for automatically mining architectural knowledge from Stack Overflow (SO) posts. It comprises two complementary components:
 
@@ -21,7 +21,7 @@ Stack Overflow (SO), a leading online community forum, is a rich source of softw
 
   ![ArchISPE Component](images/ArchISPE_Component.png)
 
-Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
+Together, these components enable software engineers, particularly architects and developers, to efficiently gather relevant and useful architectural knowledge from online developer communities.
 
 ## 📁 Repository Structure
 
