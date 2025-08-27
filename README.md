@@ -51,11 +51,7 @@ The `data/` folder contains:
 
 ---
 
-## 📄 File Organization
 
-More details about each subfolder and how to run the experiments are provided in their respective README files (if available). Please refer to the usage instructions in the `archispe/` and `evaluation/` folders.
-
----
 
 
 
