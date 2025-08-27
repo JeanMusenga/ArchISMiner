@@ -55,7 +55,7 @@ To install all dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
+```
 Note: For PyTorch, follow the official installation guide to ensure proper installation for your system (CPU or GPU support).
 
 
