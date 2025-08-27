@@ -13,7 +13,11 @@ It provides an overview of the ArchISMiner framework, the source code implementi
 
 - **ArchPI** – Identifies Architecture-Related Posts (ARPs) from the broader set of SO posts. Specifically, it leverages a diverse set of models, including traditional machine learning (ML), deep learning (DL), state-of-the-art pre-trained language models (PLMs), and large language models (LLMs), to select the optimal model for this task.
 
+  ![Alt text](images/ARPs_Indetification_Component.png)
+
 - **ArchISPE** – Extracts architectural issue–solution pairs from the identified ARPs to capture task-specific architectural knowledge. Given an ARP (i.e., a Question_body and its corresponding Answer_body) consisting of 𝑛 sentences, ArchISPE extracts a small set of key sentences that explicitly express architectural issues and solutions, and generates a concise, self-contained issue-solution pair for the post.
+
+   ![Alt text](images/ArchISPE_Component.png)
   
 Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
 
