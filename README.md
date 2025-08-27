@@ -66,7 +66,7 @@ pip install -r requirements.txt
 @article{Musenga2025ArchISMiner,
   author = {Musengamana Jean de Dieu and Ruiyin Li and Peng Liang and Mojtaba Shahin and Muhammad Waseem and Zengyang Li and Bangchao Wang and Arif Ali Khan and Mst Shamima Aktar},
   title = {{ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities}},
-  journal={arXiv preprint arXiv:xxx.xxxx},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2025}
 }
 ```
