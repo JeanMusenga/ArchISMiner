@@ -13,6 +13,8 @@ It provides an overview of the ArchISMiner framework, the source code implementi
   
 Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
 
+![Alt text](images/OverviewOfResearchMethod.png)
+
 
 This repository provides:
 - The implementation of our proposed framework (**ArchISPE**)
