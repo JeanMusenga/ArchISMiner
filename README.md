@@ -24,15 +24,6 @@ Stack Overflow (SO), a leading online community forum, is a rich source of softw
 Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
 
 
-
-
-This repository provides:
-- The implementation of our proposed framework (**ArchISPE**)
-- Baseline models for comparative evaluation
-- The dataset used in our study
-
----
-
 ## 📁 Repository Structure
 
 ├── data/ # Dataset used in the study
