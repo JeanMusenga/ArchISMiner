@@ -5,7 +5,7 @@ It provides an overview of the ArchISMiner framework, the source code implementi
 
 ## 🚨 Introduction and  an overview of the research methodology
 
-Stack Overflow (SO), a leading online community forum, is a rich source of software development knowledge. However, locating architectural knowledge (e.g., architectural solutions) remains challenging due to the overwhelming volume of unstructured content and fragmented discussions. Developers must manually sift through posts to find relevant architectural insights, which is both time-consuming and error-prone. IN this study, we follow a rigorous research method and introduce ArchISMiner, a novel framework for mining architectural knowledge from SO.
+Stack Overflow (SO), a leading online community forum, is a rich source of software development knowledge. However, locating architectural knowledge (e.g., architectural solutions) remains challenging due to the overwhelming volume of unstructured content and fragmented discussions. Developers must manually sift through posts to find relevant architectural insights, which is both time-consuming and error-prone. In this study, we follow a rigorous research method and introduce ArchISMiner, a novel framework for mining architectural knowledge from SO.
 
 ![Alt text](images/OverviewOftheReseachMethod.png)
 
