@@ -1,11 +1,14 @@
 # Replication for the Paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*
 
-This is the replication package for the paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*.  
-It provides an overview of the ArchISMiner framework, the source code implementing its components and baselines, and the dataset used in our study.
+This replication package accompanies the paper ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities.
+It includes an introduction and research methodology overview, a description of the ArchISMiner framework, source code for its components and baselines, the dataset used in our study, and the experimental results.
 
 ## 🚨 Introduction and Research Methodology Overview
 
-Stack Overflow (SO), a leading online community forum, is a rich source of software development knowledge. However, locating architectural knowledge (e.g., architectural solutions) remains challenging due to the overwhelming volume of unstructured content and fragmented discussions. Developers must manually sift through posts to find relevant architectural insights, which is both time-consuming and error-prone. To address this, we introduce **ArchISMiner**, a framework for automatically mining architectural knowledge from SO. The research methodology employed is illustrated below:
+Stack Overflow (SO), a leading online community forum, is a rich source of software development knowledge. 
+However, locating architectural knowledge (e.g., architectural solutions) remains challenging due to the overwhelming volume of unstructured content and fragmented discussions.
+Developers must manually sift through posts to find relevant architectural insights, which is both time-consuming and error-prone. To address this, we introduce **ArchISMiner**, a framework for automatically mining architectural knowledge from SO. 
+The research methodology employed is illustrated below:
 
 ![Overview of Research Methodology](images/OverviewOftheReseachMethod.png)
 
