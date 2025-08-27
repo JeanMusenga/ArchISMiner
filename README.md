@@ -3,7 +3,11 @@
 This is the replication package for the paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*. 
 It provides an overview of the ArchISMiner framework, the source code implementing its components and baselines, and the dataset used in our study.
 
-## 🚨 Introduction
+## 🚨 An overview of the research methodology 
+
+![Alt text](images/OverviewOftheReseachMethod.png)
+
+## 🚨 ArchISMiner Introduction
 
 **ArchISMiner** is a framework for automatically mining architectural knowledge from Stack Overflow (SO) posts. It comprises two complementary components:
 
@@ -13,7 +17,7 @@ It provides an overview of the ArchISMiner framework, the source code implementi
   
 Together, these components enable software engineers—particularly architects and developers—to efficiently gather relevant architectural information from online developer communities.
 
-![Alt text](images/OverviewOftheReseachMethod.png)
+
 
 
 This repository provides:
