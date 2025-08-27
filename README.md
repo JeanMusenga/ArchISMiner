@@ -41,9 +41,9 @@ Together, these components enable software engineers, particularly architects an
 ## Dataset Description
 
 The `data/` directory includes:
-- `questions.csv` – Stack Overflow questions.
-- `answers.csv` – Corresponding answers.
-- `annotations.json` – Manually annotated architectural issue–solution pairs.
+- `questions.14932_ARPs_and_Programming_Posts. xlsx` – contains posts labeled as APRs and programming posts (i.e., 7,466 ARPs and 7,466 Programming Posts) used to train and test the classifiers. 
+- `366_ARPs_for_extracting_Issue_Solution_Pairs.xlsx` – contains randomly selected 366 ARPs from 7,466 ARPs for extracting architectural issue-solution pairs.
+- `ArchIssueSolutionBench.xlsx` – Manually annotated architectural issue–solution pairs. contains our proposed architectural benchmark used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. 
 
 **Dataset Size**: [Insert number of questions, answers, and annotated pairs].  
 **Annotation Process**: [Briefly describe, e.g., conducted by two experts following guidelines].  
