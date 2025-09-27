@@ -1,7 +1,7 @@
 # Replication for the Paper: *ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities*
 
-This replication package accompanies the paper ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities.
-It includes an introduction and research methodology overview, a description of the ArchISMiner framework, source code for its components and baselines, the dataset used in our study, and the experimental results.
+This replication package for the paper ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities.
+This repository includes an introduction and research methodology overview, a description of the ArchISMiner framework, source code for its components and baselines, the dataset of Stack Overflow posts used in our study, and the experimental results.
 
 ## 🚨 Introduction and Research Methodology Overview
 
