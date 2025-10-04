@@ -28,18 +28,17 @@ Together, these components enable software engineers, particularly architects an
 
 ## 📁 Repository Structure
 
-├── data/ # Dataset used in the study
+├── data                  # Dataset used in the study
 
-├── archispe/ # Source code of the ArchISPE framework
+├── image                 # 
 
-├── baselines/ # Baseline models for comparison
+├── models                # Source code of the ArchISPE framework and Baseline models for comparison
 
-├── evaluation/ # Evaluation scripts and metrics
+├── results               # Output results from experiments
 
-├── results/ # Output results from experiments
+├── user_study            # 
 
-└── README.md # This file
-
+└── README.md             # This file
 
 ## 🛠️ Dataset Description
 
