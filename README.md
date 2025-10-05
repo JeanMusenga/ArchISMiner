@@ -45,7 +45,7 @@ Together, these components enable software engineers, particularly architects an
 The `data/` directory includes:
 - `14932_ARPs_and_Programming_Posts.xlsx` – contains posts labeled as APRs and programming posts (i.e., 7,466 ARPs and 7,466 Programming Posts) used to train and test the classifiers. 
 - `366_ARPs_for_extracting_Issue_Solution_Pairs.xlsx` – contains randomly selected 366 ARPs from 7,466 ARPs for extracting architectural issue-solution pairs.
-- `ArchIssueSolutionBench.xlsx` – contains our proposed architectural benchmark used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. 
+- `ArchISPBench.xlsx` – contains our proposed architectural benchmark used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. It contains 366 architectural issue and 1,964 solutions extracted from SO, with 5,234 sentence candidates (1,970 from questions and 3,264 from answers). This benchmark provides a reusable resource for future studies, enabling consistent evaluation of new approaches or tools. 
 
 ---
 ## Requirements
