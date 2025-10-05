@@ -30,7 +30,7 @@ Together, these components enable software engineers, particularly architects an
 
 ├── data/                 # Datasets used in the study
 
-├── image/                # Figures illustrating the overall research methodology
+├── image/                # Contains figures that illustrate the overall research methodology and the architecture of the proposed framework, ArchISMiner
 
 ├── models/               # Source code for the ArchISPE framework and baseline models
 
