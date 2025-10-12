@@ -28,6 +28,7 @@ Together, these components enable software engineers, particularly architects an
 
 ## 📁 Repository Structure
 
+```plaintext
 ├── data/                 # Datasets used in the study
 
 ├── MAAD artifacts        # Generated artifacts of the MAAD framework
@@ -42,6 +43,7 @@ Together, these components enable software engineers, particularly architects an
 ├── user_study/           # Contains materials from the user study, conducted across five sessions.
 
 └── README.md             # Overview and usage instructions for this repository
+```
 
 ## 🛠️ Dataset Description
 
