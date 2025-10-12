@@ -29,10 +29,8 @@ Together, these components enable software engineers, particularly architects an
 ## 📁 Repository Structure
 
 ```plaintext
-├── data/                 # Datasets used in the study
-
-├── MAAD artifacts        # Generated artifacts of the MAAD framework
-│ ├── GPT-4o              # Generations of MAAD equipped with GPT-4o
+├── data                  # Datasets used in the study
+│ ├── New data source     # 
 
 ├── image/                # Contains figures that illustrate the overall research methodology and the architecture of the proposed framework, ArchISMiner.
 
