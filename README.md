@@ -30,13 +30,13 @@ Together, these components enable software engineers, particularly architects an
 
 ├── data/                 # Datasets used in the study
 
-├── image/                # Contains figures that illustrate the overall research methodology and the architecture of the proposed framework, ArchISMiner
+├── image/                # Contains figures that illustrate the overall research methodology and the architecture of the proposed framework, ArchISMiner.
 
 ├── models/               # Source code for the ArchISPE framework and baseline models
 
 ├── results/              # Experimental output and evaluation results
 
-├── user_study/           # Materials and results related to the user/annotation study
+├── user_study/           # Contains materials from the user study, conducted across five sessions.
 
 └── README.md             # Overview and usage instructions for this repository
 
