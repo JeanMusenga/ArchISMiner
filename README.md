@@ -30,7 +30,7 @@ Together, these components enable software engineers, particularly architects an
 
 ```plaintext
 ├── data                  # Datasets used in the study
-│ ├── New data source     # 
+│ ├── New_data_source     # contains posts extracted from new data sources 
 
 ├── image/                # Contains figures that illustrate the overall research methodology and the architecture of the proposed framework, ArchISMiner.
 
