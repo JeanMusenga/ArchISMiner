@@ -48,7 +48,7 @@ Together, these components enable software engineers, particularly architects an
 The `data/` directory includes:
 - `7,466_ARPs.xlsx` - contains 7,466 randomly selected ARPs from the original set of 10,423 ARPs curated in our previous study.
 - `14932_ARPs_and_Programming_Posts.xlsx` – contains posts labeled as APRs and programming posts (i.e., 7,466 ARPs and 7,466 Programming Posts) used to train and test the classifiers.
-- `367_ARPs_for_extracting_Issue_Solution_Pairs.xlsx` – contains 367 randomly selected ARPs from the 7,466 ARPs, used to train our model and extract architectural issue–solution pairs.
+- `367_ARPs_TrainingSet_for_IssueSolutionExtraction.xlsx` – contains 367 randomly selected ARPs from the 7,466 ARPs, used to train our model and baselines for extracting architectural issue–solution pairs.
 - `ArchISPBench.xlsx` – contains our proposed architectural benchmark dataset used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. It includes 367 architectural issues and 1,964 solutions extracted from SO, with 5,234 sentence candidates (1,970 from questions and 3,264 from answers). This benchmark dataset provides a reusable resource for future studies, enabling consistent evaluation of new approaches or tools.
 - `8454_ARPs_from_SoftwareEngineeringStackExchange.xlsx` - contains 8,454 ARPs collected from the Software Engineering Stack Exchange site.
 - `306_ARPs_from_GameDevelopment.xlsx` - contains 306 ARPs extracted from the Game Development Stack Exchange site.
