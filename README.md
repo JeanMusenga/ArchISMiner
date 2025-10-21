@@ -51,11 +51,13 @@ The `data/` directory includes:
 - `ArchISPBench.xlsx` – contains our proposed architectural benchmark dataset used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. It contains 367 architectural issues and 1,964 solutions extracted from SO, with 5,234 sentence candidates (1,970 from questions and 3,264 from answers). This benchmark dataset provides a reusable resource for future studies, enabling consistent evaluation of new approaches or tools.
 - 7,466 ARPs.xlsx 
 The `results/` directory includes:
+
 - xxx
 - xxx
 - xxx
 - xxx
 - xxx
+  
 The `data_from_new_sources/` directory includes:
 - xxx
 - xxx
