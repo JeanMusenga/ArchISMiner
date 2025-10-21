@@ -48,9 +48,18 @@ Together, these components enable software engineers, particularly architects an
 The `data/` directory includes:
 - `14932_ARPs_and_Programming_Posts.xlsx` – contains posts labeled as APRs and programming posts (i.e., 7,466 ARPs and 7,466 Programming Posts) used to train and test the classifiers. 
 - `367_ARPs_for_extracting_Issue_Solution_Pairs.xlsx` – contains 367 randomly selected ARPs from the 7,466 ARPs, used to train our model and extract architectural issue–solution pairs.
-- `ArchISPBench.xlsx` – contains our proposed architectural benchmark dataset used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. It contains 367 architectural issue and 1,964 solutions extracted from SO, with 5,234 sentence candidates (1,970 from questions and 3,264 from answers). This benchmark dataset provides a reusable resource for future studies, enabling consistent evaluation of new approaches or tools.
+- `ArchISPBench.xlsx` – contains our proposed architectural benchmark dataset used to evaluate the potential techniques for extracting architectural issue-solution pairs from online developer community forums. It contains 367 architectural issues and 1,964 solutions extracted from SO, with 5,234 sentence candidates (1,970 from questions and 3,264 from answers). This benchmark dataset provides a reusable resource for future studies, enabling consistent evaluation of new approaches or tools.
+- 7,466 ARPs.xlsx 
 The `results/` directory includes:
----
+- xxx
+- xxx
+- xxx
+- xxx
+- xxx
+The `data_from_new_sources/` directory includes:
+- xxx
+- xxx
+- xxx
 ## Requirements
 
 To install all dependencies, run:
