@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ```bibtex
 @article{Musenga2025ArchISMiner,
   author = {Musengamana Jean de Dieu and Ruiyin Li and Peng Liang and Mojtaba Shahin and Muhammad Waseem and Zengyang Li and Bangchao Wang and Arif Ali Khan and Mst Shamima Aktar},
-  title = {{ArchISMiner: Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities}},
+  title = {{ArchISMiner: A Framework for Automatic Mining of Architectural Issue–Solution Pairs from Online Developer Communities}},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2025}
 }
